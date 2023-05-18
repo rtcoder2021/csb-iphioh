@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://rtcoder2021.github.io/csb-iphioh/static/css/main.3e0a1880.css",
+    "main.js": "https://rtcoder2021.github.io/csb-iphioh/static/js/main.db908293.js",
+    "index.html": "https://rtcoder2021.github.io/csb-iphioh/index.html",
+    "main.3e0a1880.css.map": "https://rtcoder2021.github.io/csb-iphioh/static/css/main.3e0a1880.css.map",
+    "main.db908293.js.map": "https://rtcoder2021.github.io/csb-iphioh/static/js/main.db908293.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e0a1880.css",
+    "static/js/main.db908293.js"
+  ]
+}
